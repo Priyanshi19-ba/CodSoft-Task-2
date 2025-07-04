@@ -11,6 +11,7 @@ Objective:
 To develop a simple Python-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division through user input.
 
 **Key Activities:**
+
 1.Display Program Title
 print("Simple Calculator")
 Displays a simple title indicating the program's purpose.
@@ -58,6 +59,7 @@ f"" Strings:
 Used to format and display the result in a readable way.
 
 **Key Insights:**
+
 1.User-Friendly Interaction:
 The program provides a clear, step-by-step interface for users to input two numbers and select an arithmetic operation (addition, subtraction, multiplication, division).
 2.Input Validation:
