@@ -9,6 +9,7 @@ Project: Basic Calculator Implementation in Python.
 ![image alt](https://github.com/Priyanshi19-ba/CodSoft-Task-2/blob/main/Screenshot%202025-07-04%20165115.png?raw=true)
 Objective:
 To develop a simple Python-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division through user input.
+
 **Key Activities:**
 1.Display Program Title
 print("Simple Calculator")
@@ -27,6 +28,7 @@ Uses conditional statements to determine which operation to perform based on the
 Specifically checks for division by zero and prevents the program from crashing.
 8.Display the Final Result
 Outputs the complete arithmetic expression and result in a formatted manner.
+
 **Technologies & Concepts Used:**
 1. Programming Language
 Python:
@@ -54,6 +56,7 @@ Used to terminate the program if an error occurs (like invalid input or division
 8. Formatted String Literals (f-strings)
 f"" Strings:
 Used to format and display the result in a readable way.
+
 **Key Insights:**
 1.User-Friendly Interaction:
 The program provides a clear, step-by-step interface for users to input two numbers and select an arithmetic operation (addition, subtraction, multiplication, division).
