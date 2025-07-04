@@ -5,6 +5,7 @@ Batch: B33
 Duration:10 June 2025 to 10 July 2025 
 **Overview of the Project**
 Project: Basic Calculator Implementation in Python.
+![image alt](https://github.com/Priyanshi19-ba/CodSoft-Task-2/blob/main/Screenshot%202025-07-04%20165115.png?raw=true)
 Objective:
 To develop a simple Python-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division through user input.
 Key Activities:
