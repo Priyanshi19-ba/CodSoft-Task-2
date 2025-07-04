@@ -3,6 +3,7 @@ Name: Priyanshi Bansal
 Company: CodSoft 
 Batch: B33
 Duration:10 June 2025 to 10 July 2025 
+Domain: Python Programming 
 
 **Overview of the Project**
 Project: Basic Calculator Implementation in Python.
